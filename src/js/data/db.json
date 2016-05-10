@@ -1,0 +1,38 @@
+{
+  "schools": [
+    {
+      "id": 1,
+      "name": "school1",
+      "students": [
+        {
+          "id": 1,
+          "name": "kiran"
+        },
+        {
+          "id": 2,
+          "name": "kushal kariki"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "school2",
+      "students": [
+        {
+          "id": 3,
+          "name": "binod"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "school3",
+      "students": [
+        {
+          "id": 5,
+          "name": "pratish"
+        }
+      ]
+    }
+  ]
+}
